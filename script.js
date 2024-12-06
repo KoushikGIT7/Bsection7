@@ -6,3 +6,4 @@ document.querySelectorAll('.profile').forEach(profile => {
           profile.style.backgroundColor = 'white';
         });
       });
+    //our team repository is Bsection7 s
